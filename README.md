@@ -201,3 +201,9 @@
 [![An image of @redayh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/redayh)](https://holopin.io/@redayh)
 
 <h1 align="center">Show some ❤️ by starring some of the repositories!</h1>
+
+<!-- GIF FOOTER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-footer.gif">
+
+<!-- RAINBOW LINE BOT -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
