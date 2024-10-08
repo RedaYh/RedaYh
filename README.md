@@ -1,4 +1,4 @@
-👋 Hi, I’m @RedaYh
+👋 Hi, I’m Reda Yahya
 👀 I’m interested in building innovative software solutions, networking, and exploring cutting-edge technologies.
 🌱 I’m currently learning Java programming, Linux systems, web technologies, and advanced networking.
 💞️ I’m looking to collaborate on open-source projects and new tech startups.
