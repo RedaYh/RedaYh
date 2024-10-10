@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">Hi 👋, I'm Reda Yahya</p>
-<p align="center">A passionate fullstack developer from Morocco</p>
+<p align="center">A passionate developer from Morocco</p>
 </h2>
 
 <table border="0">
